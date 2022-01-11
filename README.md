@@ -1,1 +1,1 @@
-Para utilizar os codigos criados basta abrir o arquivo trabalho3sinais1.m no octave e carregar a area de trabalho trabalho3sinais, para criar novos sinais quadrados com novas frequências basta abrir seriedefourier.m que contem a formula obter a onda quadrada utilizando serie de fourier
+Para utilizar os codigos criados basta abrir o arquivo trabalho3sinais1.m no octave e carregar a área de trabalho trabalho3sinais, para criar novos sinais quadrados com novas frequências basta abrir seriedefourier.m que contem a formula obter a onda quadrada utilizando serie de fourier
